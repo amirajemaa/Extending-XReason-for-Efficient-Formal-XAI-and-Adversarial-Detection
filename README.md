@@ -25,7 +25,7 @@ To run this project, you'll need to install the required dependencies.
 
     ```bash
     git clone https://github.com/amirajemaa/Extending-XReason-for-Efficient-Formal-XAI-and-Adversarial-Detection.git
-    cd extending-xreason
+    cd Extending-XReason-for-Efficient-Formal-XAI-and-Adversarial-Detection
     ```
 
 2. Install the required packages:
