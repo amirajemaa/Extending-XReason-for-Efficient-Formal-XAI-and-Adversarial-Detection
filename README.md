@@ -1,6 +1,6 @@
-# Extending XReason: Formal Explanations for Adversarial Detection
+# Extending XReason for Efficient Formal XAI and Adversarial Detection
 
-This repository contains the code and resources for the paper **Extending XReason: Formal Explanations for Adversarial Detection**, which presents an extension to the XReason tool. For details on the original XReason tool, please refer to the [XReason GitHub repository](https://github.com/alexeyignatiev/xreason/).
+This repository contains the code and resources for the project **Extending XReason for Efficient Formal XAI and Adversarial Detection**, which presents an extension to the XReason tool. For details on the original XReason tool, please refer to the [XReason GitHub repository](https://github.com/alexeyignatiev/xreason/).
 
 
 ## Features
