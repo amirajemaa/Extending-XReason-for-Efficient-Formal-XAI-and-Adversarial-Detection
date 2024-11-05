@@ -25,7 +25,7 @@ To run this project, you'll need to install the required dependencies.
 
     ```bash
     git clone https://github.com/amirajemaa/Extending-XReason-for-Efficient-Formal-XAI-and-Adversarial-Detection.git
-    cd extending-xreason
+    cd Extending-XReason-for-Efficient-Formal-XAI-and-Adversarial-Detection
     ```
 
 2. Install the required packages:
@@ -47,6 +47,7 @@ This project uses a customized version of the [CICIDS-2017 dataset](https://www.
 
 - **`CICIDS_dataset/`**: Contains the customized CICIDS-2017 dataset used in the project.
 - **`CICIDS_results/`**: Stores any exported data files from analysis notebooks.
+- **`src/`**: Source Folder
 - **`xgbooster/`**: Files related to original Xreason.
 
 ## Key Files
@@ -75,10 +76,9 @@ This project uses a customized version of the [CICIDS-2017 dataset](https://www.
     ```
 
 2. Open the notebooks:
-    - **[CICIDS-2017_Dataset_Formal_explanations.ipynb](CICIDS-2017_Dataset_Formal_explanations.ipynb)**: Explains LightGBM model predictions using instance and class-level formal explanations.
-
-    - **[CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb](CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb)**: Demonstrates heuristic vs. formal explanations for the CICIDS-2017 dataset.
-    - **[CICIDS-2017_Dataset_Adversarial_unit.ipynb](CICIDS-2017_Dataset_Adversarial_unit.ipynb)**: Notebook for generating adversarial samples from the CICIDS-2017 dataset and evaluating model robustness against these examples.
+    - **[CICIDS-2017_Dataset_Formal-explanations.ipynb](src/CICIDS-2017_Dataset_Formal-explanations.ipynb)**: Explains LightGBM model predictions using instance and class-level formal explanations.
+    - **[CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb](src/CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb)**: Demonstrates heuristic vs. formal explanations for the CICIDS-2017 dataset.
+    - **[CICIDS-2017_Dataset_Adversarial_unit.ipynb](src/CICIDS-2017_Dataset_Adversarial_unit.ipynb)**: Notebook for generating adversarial samples from the CICIDS-2017 dataset and evaluating model robustness against these examples.
 4. Follow the instructions within each notebook to run the experiments.
 
 ## Methodology
