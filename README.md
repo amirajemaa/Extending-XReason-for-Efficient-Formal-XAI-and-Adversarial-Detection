@@ -76,7 +76,7 @@ This project uses a customized version of the [CICIDS-2017 dataset](https://www.
     ```
 
 2. Open the notebooks:
-    - **[CICIDS-2017_Dataset_Formal_explanations.ipynb](src/CICIDS-2017_Dataset_Formal-explanations.ipynb)**: Explains LightGBM model predictions using instance and class-level formal explanations.
+    - **[CICIDS-2017_Dataset_Formal-explanations.ipynb](src/CICIDS-2017_Dataset_Formal-explanations.ipynb)**: Explains LightGBM model predictions using instance and class-level formal explanations.
     - **[CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb](src/CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb)**: Demonstrates heuristic vs. formal explanations for the CICIDS-2017 dataset.
     - **[CICIDS-2017_Dataset_Adversarial_unit.ipynb](src/CICIDS-2017_Dataset_Adversarial_unit.ipynb)**: Notebook for generating adversarial samples from the CICIDS-2017 dataset and evaluating model robustness against these examples.
 4. Follow the instructions within each notebook to run the experiments.
