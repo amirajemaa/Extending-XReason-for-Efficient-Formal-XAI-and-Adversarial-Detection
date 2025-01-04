@@ -64,7 +64,6 @@ This project uses a customized version of the [CICIDS-2017 dataset](https://www.
 - **`xreason.py`**: Script of original XReason.
 - **`erc2.py`**: Script of original XReason.
 - **`CICIDS-2017_Dataset_Formal_explanations.ipynb`**: Notebook for generating instance formal explanations and class-level formal explanations generated for LightGBM models on the CICIDS-2017 dataset.
-- **`CICIDS-2017_Dataset_heuristic_vs_formal_explanations.ipynb`**: Compares heuristic explanations (e.g., SHAP, LIME) with formal explanations in terms of robustness and correctness.
 - **`CICIDS-2017_Dataset_Adversarial_unit.ipynb`**: Notebook for generating adversarial samples from the CICIDS-2017 dataset and evaluating model robustness against these examples.
 
 ## Usage
